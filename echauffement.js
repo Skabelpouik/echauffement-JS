@@ -54,7 +54,7 @@ while (g > 0) {
     g--;
 }
 
-//exo7
+/* //exo7
 var h = 1;
 while (h < 100) {
     console.log("On tient le bon bout");
@@ -66,4 +66,4 @@ var i = 200;
 while (i > 0) {
     console.log("Enfin !!!");
     i = i - 12
-}
+} */
